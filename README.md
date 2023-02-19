@@ -3,7 +3,7 @@ For Accountability Initiative, Centre for Policy Research
 
 ## Setting up
 1. Download VSCode from [here](https://code.visualstudio.com/download)
-2. Download this zip file and extract it
+2. Download [this zip file](https://github.com/gsidhu/ai_data_scraping_workshop/archive/refs/heads/main.zip) and extract it
 3. Open the extracted folder in VSCode
 4. Click on `Terminal > New Terminal`
 5. Copy and run this code in the Terminal –
